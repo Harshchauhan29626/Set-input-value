@@ -1,0 +1,14 @@
+.min{
+    text-align: center;
+}
+
+input{
+    border-radius: 10px;
+    padding: 5px;
+    width: 12rem;
+    margin-bottom: 1rem;
+}
+
+button{
+    padding: 7px;
+}
